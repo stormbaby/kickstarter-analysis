@@ -6,5 +6,6 @@ Louise’s play Fever came close to its fundraising goal in a short amount of ti
 
 Using excel I organized the data using pivot tables in excel.
 
-![image_name](path/to/image_name.png)
+![Theater_Outcome_vs_Launch](kickstarter-analysis/resources/Theater_Outcome_vs_Launch.png)
+
 
