@@ -25,3 +25,16 @@ Using excel I organized the theater outcomes and goals using pivot tables in exc
 The data above shows that there were successful outcomes for modest goals, up to 20,000. The percentages show that there were more than failed. Above that, the number of total outcome began to decrease along with the number of successful outcomes as a percentage.  I then created a line graph to show the trend.
 
 ![Outcomes_vs_Goals](/resources/Outcomes_vs_Goals.png)
+
+## Results
+
+*What are two conclusions you can draw about the Theater Outcomes by Launch Date?
+*What can you conclude about the Outcomes based on Goals?
+*What are some limitations of this dataset?
+*What are some other possible tables and/or graphs that we could create?
+
+
+
+
+
+
