@@ -6,7 +6,7 @@ Louise’s play Fever came close to its fundraising goal in a short amount of ti
 
 Using excel I organized the data using pivot tables in excel. See image below.
 
-![theater_outcomes_pivot](/resources/theater_outcomes_pivot.png)
+![theater_outcomes_pivot](/theater_outcomes_pivot.png)
 
 
 ![Theater_Outcomes_vs_Launch](/resources/Theater_Outcomes_vs_Launch.png)
