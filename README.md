@@ -40,7 +40,7 @@ The data above shows that there were successful outcomes for modest goals, up to
    - The data didn't show what the words successful and failed meant.  That data could have been broken up more to see gradients.
 
 *What are some other possible tables and/or graphs that we could create?
-   -
+   -  
 
 
 
