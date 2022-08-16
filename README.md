@@ -12,5 +12,5 @@ The data above shows that there were successful outcomes for all launch dates. I
 ---
 
 ![Theater_Outcomes_vs_Launch](/resources/Theater_Outcomes_vs_Launch.png)
-
-
+The blue line, successful outcomes is higher for every launch month.  The failures line shows that there were less failures across the board.  The last line, canceled outcomes, is very few and even zero at times.
+---
