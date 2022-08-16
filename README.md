@@ -20,4 +20,4 @@ The blue line, successful outcomes is higher for every launch month.  The failur
 
 Using excel I organized the theater outcomes and goals using pivot tables in excel. See image below.
 
-[theater_outcomes_goals_pivot](/theater_outcomes_goals_pivot.png)
+[Theater_outcomes_goal_pivot](/Theater_outcomes_goal_pivot.png)
