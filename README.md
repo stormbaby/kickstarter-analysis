@@ -24,4 +24,4 @@ Using excel I organized the theater outcomes and goals using pivot tables in exc
 
 The data above shows that there were successful outcomes for all launch dates. I then created a line graph to show the trend.
 
-![Theater_Outcomes_vs_Goals](/resources/Theater_Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals](/resources/Outcomes_vs_Goals.png)
