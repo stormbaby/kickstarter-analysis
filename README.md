@@ -8,6 +8,8 @@ Using excel I organized the data using pivot tables in excel. See image below.
 
 ![theater_outcomes_pivot](/theater_outcomes_pivot.png)
 
+This data shows that there were successful outcomes for all launch dates. I then created a line graph to show the trend.
+
 
 ![Theater_Outcomes_vs_Launch](/resources/Theater_Outcomes_vs_Launch.png)
 
