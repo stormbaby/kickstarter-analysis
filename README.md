@@ -28,19 +28,19 @@ The data above shows that there were successful outcomes for modest goals, up to
 
 ## Results
 
-*What are two conclusions you can draw about the Theater Outcomes by Launch Date?
+From the analysis I have arrived at two conclusions about the Theater Outcomes by Launch Date
    - The success of a theater's outcome overall didn't depend on the month of the launch.
    - Very few of the theater's outcomes failed.  
 
-*What can you conclude about the Outcomes based on Goals?
-   - If the goal was less than 20,000 there was reasonable propability of success.
-
-*What are some limitations of this dataset?
+I concluded that if the goal was less than 20,000 there was a reasonable probably that the outcome would be successful.
+  
+Some limitations of this dataset would be
    - The Launch date used didn't include the year.
    - The data didn't show what the words successful and failed meant.  That data could have been broken up more to see gradients.
 
-*What are some other possible tables and/or graphs that we could create?
-   -  
+Another possible table and/or graph that we could create would be 
+   -  A pie chart.  We could have the outcomes ( Successful, Failure etc) as pieces of the pie.
+  
 
 
 
