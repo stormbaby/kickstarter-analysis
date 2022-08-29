@@ -23,7 +23,7 @@ Using excel I organized the theater outcomes and goals using pivot tables in exc
 
 The data above shows that there were successful outcomes for modest goals, up to 20,000. The percentages show that there were more successful campaigns than those that failed. The percentage of successful outcomes became unpredictable as the goals increased.  I then created a line graph to show the trend.
 
-![Outcomes_vs_Goals](/resources/Outcomes_vs_Goals.png)
+![Outcome_vs_Goal](/resources/Outcome_vs_Goal.png)
 
 ## Results
 
